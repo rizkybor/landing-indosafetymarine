@@ -1,6 +1,6 @@
 # Portfolio website design
 
-Generated with BLACKBOX AI Builder
+Example by Jendela Kode
 
 ## Getting Started
 

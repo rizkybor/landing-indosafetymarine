@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Portfolio website design',
-  description: 'Generated with BLACKBOX AI Builder',
+  description: 'example by Jendela Kode',
 }
 
 export default function RootLayout({
